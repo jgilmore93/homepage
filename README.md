@@ -4,8 +4,9 @@
 Developers, designers, data geeks, leaders, and idea-makers who volunteer to help Grand Rapids' government and civic organizations increase civic engagement by adopting open web technologies.
 
 ### Recent Projects
-- The City of Grand Rapids Budget Visualization
-- [Grand Rapids Parks & Recreation Investments](http://grparks.citizenlabs.org/): On November 5, 2013, residents of Grand Rapids voted in favor of a dedicated property millage for capital and pool operations, and major repair and rehabilitation of parks and playgrounds. Our map show the parks of the City of Grand Rapids and the tax dollars invested in each one thus far. 
+- [The City of Grand Rapids Budget Visualization](http://openbudgetgr.org): Open Budget: Grand Rapids promotes a deeper understanding of the city budget, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how the City of Grand Rapids currently works and how it should in the future.
+  - [Grand Rapids City Commission considers $473 Million spending plan](http://grcity.us/Pages/Grand-Rapids-City-Commission-considers-$473-Million-spending-plan.aspx): City of Grand Rapids announces partnership with Citizen Labs to deliver an open budget project.
+- [Grand Rapids Parks & Recreation Investments](http://grparks.citizenlabs.org/): On November 5, 2013, residents of Grand Rapids voted in favor of a dedicated property millage for capital and pool operations, and major repair and rehabilitation of parks and playgrounds. Our map show the parks of the City of Grand Rapids and the tax dollars invested in each one thus far.
 
 ### Want To Help Your City? Good, we could use your help.
 
