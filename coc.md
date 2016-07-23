@@ -1,4 +1,4 @@
-DRAFT: Citizen Labs Code of Conduct
+## Citizen Labs Code of Conduct
 
 ### Respect
 Citizen Labs is an intentionally positive community: that recognizes and celebrates creativity; collaboration of independent creators (and independence); and the diversity of people, cultures, and opinions that are a core strength of Citizen Labs.
@@ -33,7 +33,7 @@ Harassment includes, but is not limited to:
 - Sustained disruption of talks or other events
 - Inappropriate physical contact
 - Unwelcome sexual attention
-- Advocating for, or encouraging, any of the above behaviour
+- Advocating for, or encouraging, any of the above behavior
 
 Sponsors are also subject to the anti-harassment policy.
 
@@ -44,12 +44,19 @@ If you see someone behaving disrespectfully, you are encouraged to respectfully 
 
 If you experience disrespectful behavior and feel in any way unable to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an organizer. If you cannot reach an event organizer or forum administrator and/or it is an emergency, please contact local law enforcement and/or remove yourself from the situation.
 
-We want to hear from you about anything that you feel is disrespectful, threatening, or just strange. We will listen and work to resolve the matter. Contact Citizen Labs about harassment at safespace@citizenlabs.org and feel free to use the email template below.
+We want to hear from you about anything that you feel is disrespectful, threatening, or just strange. We will listen and work to resolve the matter. 
 
-Email Template for Anti-Harassment Reporting
+Contact Citizen Labs about harassment at safespace@citizenlabs.org and feel free to use the email template below.
+
+**Email Template for Anti-Harassment Reporting**
+
+```
 SUBJECT: Safe Space alert at [EVENT NAME]
+
 I am writing because of harassment at a Citizen Labs event or space, (NAME, PLACE, DATE OF EVENT).
+
 You can reach me at (CONTACT INFO). Thank you.
+```
 
 ### Apologize for Mistakes
 Should you catch yourself behaving disrespectfully, or be confronted as such, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them, and avoiding repeating them in the future.
@@ -62,3 +69,13 @@ If a participant engages in harassing behavior, organizers may take any action t
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizer immediately. Organizers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe. We value your participation.
 
 As organizers, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. We can't foresee every situation however, and thus if in the organizers' judgment the best thing to do is to ask a disrespectful individual to leave, we will do so.
+
+**last updated July 22, 2016**
+
+#### **Sources of inspiration for our Code of Conduct:**
+
+- [Great Lakes Software Excellence Conference Code of Conduct](http://glsec.softwaregr.org/code-of-conduct/)
+- [IndieWebCamp](https://indieweb.org/code-of-conduct)
+- [Geek Feminism Wiki's Conference anti-harassment/Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+- [Code for America](https://github.com/codeforamerica/codeofconduct)
+- [Barcamp GR](http://barcampgr.org/code-of-conduct/)
