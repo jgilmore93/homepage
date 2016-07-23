@@ -1,7 +1,10 @@
 # Citizen Labs
 
+Citizen Labs is a Grand Rapids based organization that believes engaged citizens can improve their communities.
 
-Developers, designers, data geeks, leaders, and idea-makers who volunteer to help Grand Rapids' government and civic organizations increase civic engagement by adopting open web technologies.
+  We work together with our community to use open data and open source technology to promote transparency, better understand problems, make better choices, and provide solutions that work.
+
+  We are developers, designers, data geeks, leaders, and idea-makers who volunteer to help Grand Rapids' government and civic organizations.
 
 ### Recent Projects
 - [The City of Grand Rapids Budget Visualization](http://openbudgetgr.org): Open Budget: Grand Rapids promotes a deeper understanding of the city budget, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how the City of Grand Rapids currently works and how it should in the future.
