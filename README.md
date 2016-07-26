@@ -10,7 +10,7 @@ Citizen Labs is a Grand Rapids, MI based organization that believes engaged citi
 - [Open Budget: Grand Rapids](http://openbudgetgr.org): The Open Budget project promotes a deeper understanding of the city budget of Grand Rapids, so that citizens, officials, and other stakeholders can engage in more informed dialogue about how the City of Grand Rapids currently works and how it should in the future.
 - [Grand Rapids Parks & Recreation Investments](http://grparks.citizenlabs.org/): On November 5, 2013, residents of Grand Rapids voted in favor of a dedicated property millage for capital and pool operations, and major repair and rehabilitation of parks and playgrounds. Our map shows the parks of the City of Grand Rapids and the tax dollars invested in each one thus far.
 
-### Want To Help Your City? Good, we could use your help.
+### Want To Help Your City? Good, we could use your help
 
 Work on your own project, join an ongoing project, or start researching a new opportunity.
 
@@ -21,5 +21,5 @@ Citizen Labs has a Code of Conduct that applies to our activities, events, and d
 ### Come To Our Meetings
 Check out our [Facebook page](https://www.facebook.com/citizenlabs) for the next location and time. We meet the first and third Tuesday of every month. Some meetings are focused on a specific project, at others we organize our efforts and brainstorm new projects. Our meetings are casual and everyone is welcome to join. Food and drink are often involved.
 
-### Want Even More Info? Contact Us.
+### Want Even More Info? Contact Us
 Contact us with questions info@citizenlabs.org, [Twitter](https://twitter.com/citizen_labs), and [Facebook](https://www.facebook.com/citizenlabs).
