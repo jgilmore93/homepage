@@ -21,5 +21,8 @@ Citizen Labs has a Code of Conduct that applies to our activities, events, and d
 ### Come To Our Meetings
 Check out our [Facebook page](https://www.facebook.com/citizenlabs) for the next location and time. We meet the first and third Tuesday of every month. Some meetings are focused on a specific project, at others we organize our efforts and brainstorm new projects. Our meetings are casual and everyone is welcome to join. Food and drink are often involved.
 
+### Get Involved Online
+Much of our work gets done in between meetings online. All of our projects and additional information about Citizen Labs are [available on Github](https://github.com/citizenlabsgr). We use Slack as our primary communication tool, [join the conversation and our community on Slack.](http://slackin-citizenlabs.herokuapp.com/)
+
 ### Want Even More Info? Contact Us
 Contact us with questions info@citizenlabs.org, [Twitter](https://twitter.com/citizen_labs), and [Facebook](https://www.facebook.com/citizenlabs).
