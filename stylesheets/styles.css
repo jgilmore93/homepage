@@ -322,3 +322,15 @@ footer {
     color:#444;
   }
 }
+
+.brand-section {
+  padding-top: 2rem;
+margin-top: 2rem;
+border-top: solid 1px #eff0f1; }
+
+.header-logo {
+  margin: 0;
+  padding: 0;}
+
+#btn-orange {
+  background-color: #F85107;}

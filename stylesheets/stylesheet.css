@@ -15,6 +15,15 @@ a {
   a:hover {
     text-decoration: underline; }
 
+.header-logo {
+  margin: 0;
+  padding: 0;}
+
+.brand-section {
+  padding-top: 2rem;
+margin-top: 2rem;
+border-top: solid 1px #eff0f1; }
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
@@ -33,6 +42,9 @@ a {
   text-decoration: none;
   background-color: rgba(255, 255, 255, 0.2);
   border-color: rgba(255, 255, 255, 0.3); }
+
+#btn-orange {
+  background-color: #F85107;}
 
 @media screen and (min-width: 64em) {
   .btn {
