@@ -254,3 +254,26 @@ border-top: solid 1px #eff0f1; }
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.circle {
+    border-radius:50%;
+    box-shadow:inset 0 0 0 1px rgba(0,0,0,0.1);
+    width:7em;
+    height:7em;
+    float:none;
+  }
+
+.palette {
+  display: block;
+  float: left;
+  margin: auto;
+  padding-right: .5em;
+}
+
+.pal-container {
+  display: inline;
+  margin: auto;
+  float: left;
+  padding: 0;
+  padding-top: 4em;
+}
